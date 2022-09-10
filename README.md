@@ -1,0 +1,2 @@
+# AI-and-ML-based-Motor-Design-Platform
+M.Tech. Thesis: Under the guidance of Prof. Praveen Kumar, In this project I am working on an AI &amp; ML assisted motor designing platform. The platform uses various dimensions of the AI paradigm, from neural networks to rule base to decision making to conversational bots. Besides the elements of AI &amp; ML the platform uses various fields of mathematics, such as computational geometry and numerical techniques for differential equations, At the heart of all this is computational dynamics.
